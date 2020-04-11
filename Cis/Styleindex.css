@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	background-image: url(https://img5.goodfon.com/wallpaper/nbig/9/de/benedict-cumberbatch-movie-doctor-strange.jpg);
+	color: white;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	}
+h1, h2{
+	 font-family: 'Lobster', cursive;
+}
+header{
+	padding-top: 35px;
+	background-color: #211253;
+		text-align: center;
+}
+header h1{
+	color: orange;
+	font-size: 40px;
+	font-style: italic;
+}
+header img{
+	border-radius: 9000px;
+	text-align: center;
+	border: 12px solid #200785;
+}
+main{
+	padding: 5px 20px;
+	text-align: center;
+	margin: 0 auto;
+	max-width: 800px;
+	background-position:center, center;
+	background-image: url(https://www.photohdx.com/images/2017/06/clean-orange-wall-texture-background.jpg);
+}
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 30px;
+}
+
+p{
+	font-size: 15px
+}
+ul{
+	list-style: none;
+}
+a{
+	color: #10B4E4;
+}
+a:hover{
+	color: blue;
+	font-size: 30px;
+}
+p.euclid{
+	font-family: 'Rochester', cursive;
+	color: lightgrey;
+	font-size: 26px;
+	font-style: italic;
+	margin: 0;
+}
