@@ -1,6 +1,9 @@
 body{
 	margin: 0;
+	background-color: #2E2E2E;
 	background-image: url(https://img5.goodfon.com/wallpaper/nbig/9/de/benedict-cumberbatch-movie-doctor-strange.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
 	color: white;
 	font-family: Arial, sans-serif;
 	text-align: center;
@@ -10,13 +13,20 @@ h1, h2{
 }
 header{
 	padding-top: 35px;
-	background-color: #211253;
-		text-align: center;
+	/*background-color: #211253; #2E2E2E */
+	text-align: center;
+	width: 80vw;
+	margin: auto;
+
+
 }
 header h1{
 	color: orange;
 	font-size: 40px;
 	font-style: italic;
+	background-color: #4F4C4C;
+	margin-left: 500px;
+	margin-right: 500px;
 }
 header img{
 	border-radius: 9000px;
@@ -26,7 +36,7 @@ header img{
 main{
 	padding: 5px 20px;
 	text-align: center;
-	margin: 0 auto;
+	margin: auto;
 	max-width: 800px;
 	background-position:center, center;
 	background-image: url(https://www.photohdx.com/images/2017/06/clean-orange-wall-texture-background.jpg);
